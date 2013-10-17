@@ -1,0 +1,4 @@
+Place this plugin into eclipse´s plugin folder.
+Restart eclipse.
+
+In a **near** future, a "how to" will be uploaded in order to show how this plugin can be compiled and packaged.
